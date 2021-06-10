@@ -1,0 +1,53 @@
+{
+  "squadName" : "AWESOME ANIMAL ACTION HEROES",
+  "homeTown" : "Raccon City",
+  "formed" : 2020,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Captain Vengeful Nightowl",
+      "age" : 22,
+      "secretIdentity" : "Carry Carter",
+      "powers" : [
+        "Sleeping in",
+        "Waking up late",
+        "Radar vision",
+		"Super Hearing"
+      ],
+	  "weaknuess" : "early mornings"
+    },
+    {
+      "name" : "Moleman",
+      "age" : 29,
+      "secretIdentity" : "Hein van der Gaag",
+      "powers" : [
+        "Digging",
+        "Dark Vision"
+      ],
+	  "weaknuess" : "bright sunlight"
+    },
+    {
+      "name" : "The mysterious wasp",
+      "age" : 39,
+      "secretIdentity" : "Jane Wilson",
+      "powers" : [
+        "Paralyzing Poison",
+        "Superman reflexes",
+        "Supersonic flight"
+      ],
+	  "weaknuess" : "sweet tooth"
+    }
+	{
+      "name" : "The incredible Grasshopper",
+      "age" : 18,
+      "secretIdentity" : "Huckleberry Hopper",
+      "powers" : [
+        "Super jump",
+        "sound of silence",
+        "Camouflage"
+      ],
+	  "weaknuess" : "sitting still"
+    }
+  ]
+}
